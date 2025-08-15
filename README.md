@@ -51,6 +51,7 @@ Meticulous and seasoned **Technical Lead** with 17+ years of experience in build
 <h2 style="color:black;">Education</h2>
 
 **Post Graduate Certificate in Generative AI** 
+
 *Jul 2025 – Dec 2025*  
 Focus: Prompt Engineering, Large Langguage Model, Advanced Prompting Techniques, Generative AI System Model System(Agents) Design & Development
 
