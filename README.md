@@ -1,6 +1,6 @@
 # <span style="color:black;">Rakesh Gajjar</span>
 
-**Technical Lead | Data Engineering | Scalable Systems | AI/ML Enthusiast**  
+**Technical Lead | Data Engineering | Software Engineering | Scalable Systems**  
 📍 Bengaluru, India | 📞 (+91) 99457-51300 | 📧 [rakesh.gajjar@gmail.com](mailto:rakesh.gajjar@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gajjarrakesh/) | 🔗 [GitHub](https://github.com/rakeshgajjar)
 
@@ -14,9 +14,9 @@ Meticulous and seasoned **Technical Lead** with 17+ years of experience in build
 
 <h2 style="color:black;">Skills</h2>
 
-**Technical Expertise:** Python, C++, SQL, Linux, Data Modelling, Data Analytics, Apache Spark, PySpark, AWS, ETL, Jupyter Notebook, Git  
+**Technical Expertise:** Python, C++, SQL, Data Modelling, Data Analytics, PySpark, NumPy, Pandas, Prompt Engineering.   
 **Design & Architecture:** Low & High-Level Design, Solution Architecture, Performance Optimization  
-**Leadership:** Team Management, Mentorship, Client Engagement, Project Management
+**Leadership:** , Project Management, Engineering Mentorship, Client Engagement
 
 ---
 
@@ -50,10 +50,14 @@ Meticulous and seasoned **Technical Lead** with 17+ years of experience in build
 
 <h2 style="color:black;">Education</h2>
 
+**Post Graduate Certificate in Generative AI** 
+*Jul 2025 – Dec 2025*  
+Focus: Prompt Engineering, Large Langguage Model, Advanced Prompting Techniques, Generative AI System Model System(Agents) Design & Development
+
 **Post Graduate Diploma in AI & ML**  
 *IITB - International Institute of Information Technology, Bengaluru*  
 *Jun 2020 – Jul 2021*  
-Focus: Data Science, EDA, Feature Engineering, Classical ML, Deep Learning, Reinforcement Learning
+Focus: Data Science, EDA, Feature Engineering, Foundational ML Model Development, Deep Learning-CNN,ANN,RNN, Reinforcement Learning
 
 **Bachelor of Engineering in Information Technology**  
 *U V Patel College of Engineering (Ganpat Vidhyanagar), Mehsana*  
@@ -67,13 +71,15 @@ Secured 2nd university rank; among 3 selected out of 180 for campus placement.
 - **Data Analytics Pipeline for Fortune 500 CPG Client**: Optimized pipelines using Spark, AWS; cut processing time by 50%  
 - **Health SDK Development**: Created API framework with C++17 and SQLite; ensured low defect density and real-time processing  
 - **MyFiles Optimization**: Reduced load time with cache management; aligned with freedesktop standards  
-- **Resource Manager UI Suite**: Built desktop suite for mobile UI design with widget system, event handling, and pixel control
+- **Resource Manager**: Built desktop suite for mobile UI design with widget system, event handling, and pixel control
 
 ---
 
 <h2 style="color:black;">Interests</h2>
 
 - Machine Learning & AI
+- Prompt Engineering
+- Building LLM Powered Systems(Agents)
 - Data Science & Engineering
 - Distributed Systems  
 - FinTech
